@@ -39,5 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "`npm install` ou `yarn install`",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
